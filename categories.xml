@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+ <category 
+	title="Category 1" 
+	description="This is the 1st Category." 
+	sd_img="http://rokuchannelmaker.com/udemy/image-files/SD-category-1.png" 
+	hd_img="http://rokuchannelmaker.com/udemy/image-files/HD-category-1.png" 
+	feed="http://rokuchannelmaker.com/udemy/category-1.xml"
+ />
+ <category 
+	title="Category 2" 
+	description="This is the 2nd Category." 
+	sd_img="http://rokuchannelmaker.com/udemy/image-files/SD-category-2.png" 
+	hd_img="http://rokuchannelmaker.com/udemy/image-files/HD-category-2.png" 
+	feed="http://rokuchannelmaker.com/udemy/category-2.xml"
+ />
+</categories>
