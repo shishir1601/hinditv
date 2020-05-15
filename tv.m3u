@@ -1,0 +1,53 @@
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/abp_news_in.jpg",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/janta_tv.jpg",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="",Republic Bharat 
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="",NDTV Hindi 
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#EXTINF:0, group-title="Hindi News",tvg-logo="",News 18 Hindi 
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_2_av-p.m3u8
+
+#EXTINF:0, group-title="English News",tvg-logo="",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:0, group-title="English News",tvg-logo="", CNN News 18 
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_4_av-p.m3u8
+
+#EXTINF:0, group-title="English News",tvg-logo="",Republic TV
+http://repblicwld.s.llnwi.net/live/hls1/master_chunklist1.m3u8
+
+
+
+#EXTINF:0, group-title="Hindi Entertainment",tvg-logo="",Dhamaal
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+
+#EXTINF:0, group-title="Hindi Entertainment",tvg-logo="",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+#EXTINF:0, group-title="Hindi Entertainment",tvg-logo="",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+#EXTINF:0, group-title="Hindi",tvg-logo="",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+
+#EXTINF:0, group-title="Business",tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/a/a3/Bloomberg_television.jpg",Bloomberg
+https://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:0, group-title="International",tvg-logo="",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:0, group-title="International",tvg-logo="",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
