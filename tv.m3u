@@ -47,9 +47,15 @@ http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:0, group-title="Business",tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/a/a3/Bloomberg_television.jpg",Bloomberg
 https://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
+
 #EXTINF:0, group-title="International",tvg-logo="",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+
 #EXTINF:0, group-title="International",tvg-logo="",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
 #EXTINF:0, group-title="International",WGN 9
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
+
+#EXTINF:0,Kasbo - Found You (feat. Chelsea Cutler)
+http://www.youtube.com/watch?v=1KGXZVK3AEM
